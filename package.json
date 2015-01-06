@@ -18,6 +18,7 @@
     "test"
   ],
   "dependencies": {
+    "minimatch": "~2.0.1",
     "through": "~2.3.4"
   },
   "devDependencies": {
